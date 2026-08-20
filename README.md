@@ -39,8 +39,6 @@ The interactive dashboard provides insights into:
 
 The dataset was obtained from **Kaggle** and used for educational and portfolio analysis.
 
-> The original dataset source and attribution will be added once the specific Kaggle dataset is identified.
-
 ## 🤖 AI Assistance
 
 AI tools were used as a supporting resource during the development of this project, including assistance with analysis, problem-solving, and project documentation. The dashboard, data preparation, and final visualizations were developed and reviewed by the project author.
