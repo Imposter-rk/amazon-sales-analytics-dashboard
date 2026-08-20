@@ -31,7 +31,7 @@ The interactive dashboard provides insights into:
 
 ## 📂 Project Files
 
-* Amazon_Sales_Dashboard.pbix` – Power BI dashboard file
+* Amazon_Sales_Dashboard.pbix – Power BI dashboard file
 * `amazon_sales_data.csv` – Source sales dataset
 * `amazon-sales-dashboard.png` – Dashboard preview
 
